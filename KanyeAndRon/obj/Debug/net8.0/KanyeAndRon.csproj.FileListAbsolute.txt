@@ -15,3 +15,4 @@ C:\Users\JonFr\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\refint\KanyeAndRon
 C:\Users\JonFr\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\KanyeAndRon.pdb
 C:\Users\JonFr\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\KanyeAndRon.genruntimeconfig.cache
 C:\Users\JonFr\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\ref\KanyeAndRon.dll
+C:\Users\JonFr\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\KanyeAndRon.sourcelink.json

@@ -9,8 +9,12 @@ namespace KanyeAndRon
     {
         static void Main(string[] args)
         {
-            QuoteGenerator.KanyeQuote();
-            QuoteGenerator.RonQuote();
+            for(int i = 0; i <= 5; i++)
+            {
+                QuoteGenerator.KanyeQuote();
+                QuoteGenerator.RonQuote();
+            }
+           
         }
     }
 }
